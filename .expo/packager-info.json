@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 11960,
+  "expoServerNgrokUrl": "https://rv-feb.anonymous.food.exp.direct",
+  "packagerNgrokUrl": "https://packager.rv-feb.anonymous.food.exp.direct",
+  "ngrokPid": 21920,
+  "webpackServerPort": null
+}
