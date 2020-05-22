@@ -15,7 +15,7 @@ cd ReactNative`
 - Start the project with
 `yarn start`
 ***
-To run the app on real device: 
-1.Install Expo on from Playstore
-2.Select the Tunnle option on the Metro Bundler window when the project starts
-3.Scan the QR code generated
+## To run the app on real device: 
+1. Install Expo on from Playstore
+2. Select the Tunnle option on the Metro Bundler window when the project starts
+3. Scan the QR code generated
