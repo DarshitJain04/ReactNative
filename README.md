@@ -2,7 +2,7 @@
 
 A Food Search App made with React Native using YELP API
 ***
-##Steps to setup locally and run:
+## Steps to setup locally and run:
 - Make sure that you have [Node.js](https://nodejs.org/en/download/) installed on your machine
 - Install expo-cli
 `npm install -g expo-cli`
