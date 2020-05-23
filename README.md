@@ -26,4 +26,5 @@ yarn start
 ## To run the app on real device: 
 1. Install Expo from Playstore
 2. Select the Tunnle option on the Metro Bundler window when the project starts
+(Make sure that your machine and phone are connected to the same Wifi network)
 3. Scan the QR code generated
